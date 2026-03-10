@@ -12,6 +12,7 @@ project:
     - 02_*
     - 03_*
     - 04_*
+    - 05_*
 website:
   google-analytics: "G-LZ35J3XE4D"
   announcement: 
@@ -62,7 +63,6 @@ website:
       - text: "00 - Floreada"
         href: course/00_Floreada/index.qmd
     - section: "Intro to R"
-      href: course/01_InstallingRPackages/index.qmd
       contents:
       - text: "01 - Installing R Packages"
         href: course/01_InstallingRPackages/index.qmd
@@ -72,6 +72,8 @@ website:
         href: course/03_InsideFCSFile/index.qmd
       - text: "04 - Intro to Tidyverse"
         href: course/04_IntroToTidyverse/index.qmd
+      - text: "05 - Gating Sets"
+        href: course/05_GatingSets/index.qmd    
     - section: "Cytometry Core"
       href: Schedule.qmd
     - section: "Beyond the Sandbox"
